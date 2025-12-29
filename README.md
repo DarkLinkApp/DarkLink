@@ -3,7 +3,7 @@
 
 # 🌑 DarkLink Messenger
 
-[![Website](https://img.shields.io/badge/Website-Official_Site-blue?style=for-the-badge&logo=google-chrome)](https://darklink-messenger.github.io/darklinkapp.github.io/) 
+[![Website](https://img.shields.io/badge/Website-Official_Site-blue?style=for-the-badge&logo=google-chrome)](https://darklinkapp.github.io/) 
 [![Download](https://img.shields.io/badge/Download-Latest_APK-green?style=for-the-badge&logo=android)](https://github.com/DarkLinkApp/DarkLink/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/DarkLinkMessenger)
 
